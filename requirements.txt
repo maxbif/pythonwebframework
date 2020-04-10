@@ -1,0 +1,2 @@
+bumbo_mxb==0.0.2
+gunicorn==19.9.0
